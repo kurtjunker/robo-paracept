@@ -15,7 +15,7 @@
     },
     "require": {
         "php": "^7.4 | ^8.0",
-        "consolidation/robo": "3.0.*",
+        "consolidation/robo": "3.x-dev",
         "symfony/finder": ">=2.7 <6.0",
         "ext-dom": "*",
         "ext-libxml": "*",
